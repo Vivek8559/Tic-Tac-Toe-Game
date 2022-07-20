@@ -1,0 +1,5 @@
+This game is created in c/c++ language.
+The game can play with two members.
+Here I simply created a 3 cross 3 matrix with 1-9 number, where one person select a number between 1 to 9 that will be assumed that one player already moves now second person will choose a numbers within 1 to 9 and socond person can't choose the number that already chooses by first person.
+At last when all moves over then there are three posibilities are : won, lose and draw.
+These posibilities will desided by who win or lose the game.
